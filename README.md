@@ -1,4 +1,4 @@
-# LibreTV - 免费在线视频搜索与观看平台
+# LibreTV - 免费在线视频搜索与观看平台（不强制部署密码的版本、添加了一些VA接口）
 
 <div align="center">
   <img src="image/logo.png" alt="LibreTV Logo" width="120">
